@@ -7,3 +7,4 @@ The prediction work is done in the 'House-price-prediction.ipynb' file
 
 Out of curiosity I've even done some analysis which may help in deciding what type of house should one buy.
 The 'House-Price-Prediction.ipynb' file has the analysis.
+I've used only the train data for the analysis.
